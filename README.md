@@ -1,4 +1,4 @@
-# yooo #
+### Hey😑
 
 SHS on a mobile app and web development strand hoping to be college next year.
 Mostly making front-end development when coding 'cuz that's most of my knowledge on programming 💀.

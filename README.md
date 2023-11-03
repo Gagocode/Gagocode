@@ -1,4 +1,4 @@
-### Hey😑
+### Hey🗿
 
 Im now a Freshman taking Computer Science Major in Software Engineering.
 College Fcking sucks. A lot. 😐

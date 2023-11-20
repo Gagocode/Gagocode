@@ -9,4 +9,4 @@ Anyways, this are stuff about me.
    - Language - Tagalog, English.
    - Programming Languages/Mark-up Languange i know - Java, JS, C#, jquery, xml, html, CSS, Python.
    - Learning - Python
-   - I want to Learn - C/C++, Rust, Algoritims and Datastructure, how make my father proud, hwo tto be good at relattionships, and how too cook pancakes
+   - I want to Learn - C/C++, Rust, Algoritims and Datastructure, how make my father proud, how to be good at relationships, and how too cook pancakes

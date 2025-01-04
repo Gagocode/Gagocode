@@ -1,5 +1,5 @@
 # Hey, I'm Jhon Ericsson Ytac
-🔭 I’m currently working on a todo list desktop app with java swing<br>🌱 I’m currently learning C++ and Kotlin<br>💬 Ask me about things I know
+🔭 I’m currently working on a messaging webapp using react and django<br>🌱 I’m currently learning C++ and Kotlin<br>💬 Ask me about things I know
 
 
 ## 🌐 Socials:
